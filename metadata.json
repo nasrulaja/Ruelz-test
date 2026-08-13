@@ -1,0 +1,6 @@
+{
+  "name": "BerkahMart Blok 21",
+  "description": "Solusi kebutuhan rumah tangga dan grocery harian lengkap di Blok 21",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
